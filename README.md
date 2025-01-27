@@ -2,6 +2,8 @@
 
 Welcome to the **Twitter Sentiment Analysis** project! This repository contains the code for a machine learning pipeline that analyzes tweets' sentiment (Positive, Negative, Neutral) and deploys the model using a Flask web application. 🌟
 
+Dataset Link: https://www.kaggle.com/datasets/gpreda/all-covid19-vaccines-tweets/data
+
 ---
 
 ## 📖 About the Project
